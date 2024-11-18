@@ -1,3 +1,2 @@
-# Git_Assignment
+# Cracking Lintcode
 
-Version Control (Git Practice Assignment)
